@@ -1,0 +1,8 @@
+out
+build
+.idea
+src/META-INF/
+target
+.DS_Store
+.bash_profile
+*gradle*
